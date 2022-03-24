@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.microservices.tools.canvas:microservice-canvas-extractor-spring-mvc:0.5.2.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.microservices.tools.canvas/microservice-canvas-extractor-spring-mvc/0.5.2.RELEASE/f2e59156dc36df324ea3451257c5389ad160a19d/microservice-canvas-extractor-spring-mvc-0.5.2.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.microservices.tools.canvas/microservice-canvas-extractor-spring-mvc/0.5.2.RELEASE/c2233c191f5b8fa6776be86e69af896cb9c8eee7/microservice-canvas-extractor-spring-mvc-0.5.2.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

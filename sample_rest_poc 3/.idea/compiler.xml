@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="com.poc.services.canvas_poc.main" target="1.8" />
+      <module name="com.poc.services.canvas_poc.test" target="1.8" />
+      <module name="com.poc.services.sample_rest_api_with_canvaas.main" target="1.8" />
+      <module name="com.poc.services.sample_rest_api_with_canvaas.test" target="1.8" />
+      <module name="com.poc.services.security-service.main" target="1.8" />
+      <module name="com.poc.services.security-service.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.microservices.tools.canvas:microservice-canvas-render:0.5.2.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.microservices.tools.canvas/microservice-canvas-render/0.5.2.RELEASE/5f46cafb8968fc308d41c41ea192e4e82451be0c/microservice-canvas-render-0.5.2.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.microservices.tools.canvas/microservice-canvas-render/0.5.2.RELEASE/234c231b3ea702aa91df28d7d4da7fa7ec491a8c/microservice-canvas-render-0.5.2.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
